@@ -1,4 +1,4 @@
-# MRP-REST
+# MRP-REST - HỆ THỐNG QUẢN LÝ NGUYÊN VẬT LIỆU NHÀ HÀNG
 
 ##📁 CẤU TRÚC THƯ MỤC
 ```text
