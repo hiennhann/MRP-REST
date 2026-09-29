@@ -1,6 +1,7 @@
 # MRP-REST
 
-📁 CẤU TRÚC THƯ MỤC
+##📁 CẤU TRÚC THƯ MỤC
+```text
 restomrp-system/
 ├── backend/                    # Mã nguồn Backend (NestJS)
 │   ├── src/
