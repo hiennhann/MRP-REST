@@ -2,7 +2,7 @@
 
 ##📁 CẤU TRÚC THƯ MỤC
 ```text
-restomrp-system/
+mrp_rest/
 ├── backend/                    # Mã nguồn Backend (NestJS)
 │   ├── src/
 │   │   ├── core/               # Cấu hình lõi & dependencies dùng chung
